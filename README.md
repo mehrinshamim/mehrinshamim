@@ -8,7 +8,7 @@
 - 🔭 I'm a Backend Developer
 - 🌱 I’m currently learning Data Science concepts
 - 📚 I am a B.Tech Computer Science & Engineering student at [Govt Model Engineering College, Thrikakkara](https://www.mec.ac.in/)
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mehrinfathimashamim/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mehrinfathimashamim/))
 
 <!--
 - <div id="badges">
