@@ -10,6 +10,7 @@
 - 📚 I am a B.Tech Computer Science & Engineering student at [Govt Model Engineering College, Thrikakkara](https://www.mec.ac.in/)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mehrinfathimashamim/))
 
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -29,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-
+<hr>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehrinshamim)](https://git.io/streak-stats)
