@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 - 🔭 I'm a Backend Developer
 - 🌱 I’m currently learning React & Machine Learning
 - 📚 I am a B.Tech Computer Science & Engineering student at [Govt Model Engineering College, Thrikakkara](https://www.mec.ac.in/)
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about FastAPI or backend-related Frameworks
 - ⚡️ Fun-Fact: My first online username was based on an anime character.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mehrinfathimashamim/))
 
