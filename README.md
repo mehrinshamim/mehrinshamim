@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I'm a Backend Developer
-- 🌱 I’m currently learning React & Machine Learning
+- 🌱 I’m currently learning GenAI & Flutter
 - 📚 I am a B.Tech Computer Science & Engineering student at [Govt Model Engineering College, Thrikakkara](https://www.mec.ac.in/)
 - 💬 Ask me about FastAPI,Python and Backend
 - ⚡️ Fun-Fact: My first online username was based on an anime character.
