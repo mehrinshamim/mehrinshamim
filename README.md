@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 - 🔭 I'm a Backend Developer
 - 🌱 I’m currently learning GenAI & Flutter
 - 📚 I am a B.Tech Computer Science & Engineering student at [Govt Model Engineering College, Thrikakkara](https://www.mec.ac.in/)
-- 💬 Ask me about FastAPI,Python and Backend
+- 💬 Ask me about Django,FastAPI,Python and Backend
 - ⚡️ Fun-Fact: My first online username was based on an anime character.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mehrinfathimashamim/))
 
